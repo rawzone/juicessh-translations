@@ -1,35 +1,35 @@
-The all in one terminal client for Android including SSH, Local Shell, Mosh and Telnet support.
-  
-Features: 
-- Full colour terminal / ssh client
-- Popup keyboard with all those normally hard to find characters
-- Use the volume keys to quickly change font size
-- External keyboard support
-- Gestures for irssi, weechat, tmux and screen
-- Community and third party plugins
-- Official Mosh support (http://mosh.mit.edu)
-- Telnet support
-- Local Android terminal support
+Alt i én terminal klient til Android herunder SSH, Lokal shell, Mosh og Telnet understøttelse.
+
+Egenskaber:
+- Fuld farve terminal / ssh klient
+- Popup tastatur med alle de taster, der normalt svært at finde
+- Brug lydstyrketasterne til hurtigt at ændre skriftstørrelse
+- Understøttelse for eksternt tastatur
+- Genveje til irssi, weechat, tmux og screen
+- Fællesskabs og tredjeparts plugins
+- Officielt Mosh understøttelse (http://mosh.mit.edu)
+- Telnet understøttelse
+- Lokal Andorid terminal understøttelse
 - Dark, Light, 80's hacker, Molokai, Solarized Dark and Solarized Light terminal color themes
    For an overview of solarized color scheme and why it rocks for terminal usage check out http://ethanschoonover.com/solarized
-- Click URLs to open in a browser
-- Copy & Paste within sessions
-- Save / Share SSH transcripts to Dropbox/Evernote/Email & SD card 
-- UTF-8 character support
-- Easily organise your connections by group
-- Keep multiple SSH sessions running in the background
-- Seamlessly connect 'via' other SSH connections with one click
-- Immediate access when you open the app to your frequently used connections
-- IPv6 support
-- Password & OpenSSH private key support (ECDSA, RSA and DSA)
-- RSA key generator (encryption supported)
-- SSH key agent forwarding
-- Support for two-factor authentication (eg: Google Authenticator)
-- Identities (users/password/keys) are abstracted from connections. Instead of updating every connection when you change your password - just update the identity and any connections linked to it will use the new password/key.
-- zlib compression to improve SSH sessions on high latency connections
+- Klik links for at åbne i en browser
+- Kopier & Indsæt i forbindelser
+- Gem / del SSH udskrifter til Dropbox/Evernote/Email & SD kort
+- UTF-8 tegn understøttelse
+- Nemt at organisere dine forbindelser i grupper
+- Hold flere SSH sessioner kørende i baggrunden
+- Problemfri forbind 'via' en anden SSH forbindelse med et enkelt klik
+- Direkte adgang til ofte anvendte forbindelser når du åbner programmet
+- IPv6 understøttelse
+- Kodeord og OpenSSH private nøgle understøttelse (ECDSA, RSA and DSA)
+- RSA nøgle generator (kryptering understøtte)
+- SSH nøgle viderstilling
+- Understøttelse for to-faktor-autentificering (feks: Google Authenticator)
+- Identiteter (brugere/kodeord/nøgler) er seperart fra forbindelser. I stedet for at opdatere hver forbindelse, når du ændrer dit kodeord - Bare opdatere Identiteten og alle forbindelser med denne identitet vil bruge det nye kodeord.
+- zlib kompression for at forbedre SSH sessioner på høj latency-forbindelser
 
 
-Pro Features (optional in-app purchase):
+Pro funktioner (valgfrit in-app køb):
 - Quick and easy port forwards that can be connected to via the app or widget and can automatically open in a browser if required.
 - Integrate with Amazon AWS / EC2, synchronise connections and automatically group servers based on their class or security groups.
 - Securely keep everything in sync between multiple devices
